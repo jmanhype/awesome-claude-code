@@ -1,0 +1,20 @@
+name: Link Checker
+on:
+  pull_request:
+    paths: ["**/*.md"]
+  schedule:
+    - cron: "0 9 * * *"
+permissions:
+  contents: read
+  issues: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Lychee Broken Link Checker
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --verbose --no-progress "**/*.md"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
