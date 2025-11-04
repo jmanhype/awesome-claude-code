@@ -1,0 +1,54 @@
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+repos:
+  # General file checks
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: trailing-whitespace
+        name: Trim trailing whitespace
+      - id: end-of-file-fixer
+        name: Fix end of files
+      - id: check-yaml
+        name: Check YAML syntax
+      - id: check-json
+        name: Check JSON syntax
+      - id: check-added-large-files
+        name: Check for large files
+        args: ['--maxkb=1000']
+      - id: check-case-conflict
+        name: Check for case conflicts
+      - id: check-merge-conflict
+        name: Check for merge conflicts
+      - id: mixed-line-ending
+        name: Fix mixed line endings
+        args: ['--fix=lf']
+
+  # Markdown checks
+  - repo: https://github.com/markdownlint/markdownlint
+    rev: v0.13.0
+    hooks:
+      - id: markdownlint
+        name: Lint Markdown files
+        args: ['--rules', '~MD013,~MD033,~MD041']
+
+  # awesome-lint check (aligns with CI)
+  - repo: local
+    hooks:
+      - id: awesome-lint
+        name: awesome-lint
+        entry: npx awesome-lint
+        language: system
+        pass_filenames: false
+        files: '\.md$'
+
+  # Link checker (optional - can be slow)
+  # - repo: local
+  #   hooks:
+  #     - id: lychee
+  #       name: Check links with lychee
+  #       entry: lychee
+  #       language: system
+  #       args: ['--verbose', '--no-progress', '**/*.md']
+  #       pass_filenames: false
+  #       files: '\.md$'
