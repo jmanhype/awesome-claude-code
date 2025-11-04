@@ -2,6 +2,17 @@
 
 > A curated list of Claude Code plugins, MCP servers, editor integrations, and resources
 
+## Contents
+
+- [How to use](#how-to-use)
+- [Plugins & Extensions](#plugins--extensions)
+- [MCP Servers](#mcp-servers)
+- [Editor Plugins](#editor-plugins)
+- [CLI Tools](#cli-tools)
+- [Documentation & Learning Resources](#documentation--learning-resources)
+- [Community & Support](#community--support)
+- [Contributing](#contributing)
+
 ## How to use
 
 Many resources can be installed directly via Claude Code commands:
@@ -34,9 +45,24 @@ Many resources can be installed directly via Claude Code commands:
 - [claudecode.nvim](https://github.com/coder/claudecode.nvim) - Neovim IDE integration for Claude Code (pure Lua).
 - [Claude Code Chat](https://marketplace.visualstudio.com/items?itemName=nishant.claude-code-chat) - Community GUI chat/front-end for Claude Code inside VS Code.
 
+## CLI Tools
+
+- [Claude Code CLI](https://docs.claude.com/en/docs/claude-code/cli) - Official command-line interface for Claude Code with file/selection context sharing.
+- [claude-chat.nvim](https://github.com/ribru17/claude-chat.nvim) - Command-line wrapper for Neovim that shares context with Claude Code.
+
 ## Documentation & Learning Resources
 - [Customize Claude Code with plugins](https://www.anthropic.com/news/customize-claude-code-with-plugins) - Official announcement intro to plugins (commands, agents, MCPs, hooks).
 - [Plugin marketplaces](https://docs.claude.com/en/docs/claude-code/plugins#plugin-marketplaces) - Guide on how to create/distribute marketplaces and team-install via `.claude/settings.json`.
 - [Connect Claude Code to tools via MCP](https://docs.claude.com/en/docs/claude-code/mcp) - Official MCP integration guide for Claude Code.
 - [VS Code integration docs](https://docs.claude.com/en/docs/claude-code/vs-code) - Official docs for the VS Code extension.
 - [JetBrains integration docs](https://docs.claude.com/en/docs/claude-code/jetbrains) - Official docs for JetBrains plugin.
+
+## Community & Support
+
+- [Claude Code Discord](https://discord.gg/claude) - Official Discord server for Claude Code users and developers.
+- [GitHub Discussions](https://github.com/anthropics/claude-code/discussions) - Community forum for questions, feature requests, and discussions.
+- [r/ClaudeCode](https://reddit.com/r/ClaudeCode) - Reddit community for Claude Code users.
+
+## Contributing
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first. Please ensure your pull request follows the awesome list standards.
