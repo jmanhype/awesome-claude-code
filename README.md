@@ -40,3 +40,4 @@ Many resources can be installed directly via Claude Code commands:
 - [Connect Claude Code to tools via MCP](https://docs.claude.com/en/docs/claude-code/mcp) - Official MCP integration guide for Claude Code.
 - [VS Code integration docs](https://docs.claude.com/en/docs/claude-code/vs-code) - Official docs for the VS Code extension.
 - [JetBrains integration docs](https://docs.claude.com/en/docs/claude-code/jetbrains) - Official docs for JetBrains plugin.
+- [Now-Next Methodology](https://github.com/soutone/now-next-methodology) - Two-file task management system (NOW.md + NEXT.md) for maintaining focus and momentum in Claude Code/OpenCode projects with `/next` command.
