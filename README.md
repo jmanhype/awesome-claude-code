@@ -14,6 +14,7 @@ Many resources can be installed directly via Claude Code commands:
 ```
 
 ## Plugins & Extensions
+- [AWS Cost Saver](https://github.com/prajapatimehul/aws-cost-saver) - Plugin that scans AWS accounts for wasted spend with 173 automated checks across EC2, RDS, S3, Lambda, and more. Uses ML-powered recommendations from AWS Compute Optimizer and real pricing from AWS API; add with `/plugin marketplace add git@github.com:prajapatimehul/aws-cost-saver.git`.
 - [Claude Code Commands Marketplace](https://github.com/ananddtyagi/claude-code-marketplace) - Community marketplace for Claude Code commands and plugins; add with `/plugin marketplace add ananddtyagi/claude-code-marketplace`.
 - [Claude Code Plugins (jeremylongshore)](https://github.com/jeremylongshore/claude-code-plugins) - Marketplace-style repo bundling instruction-template plugins and MCP plugin packs, with install docs.
 - [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) - 19 production-grade plugins for trading, swarm intelligence, and GitHub automation built from 68+ specialized agents. Includes quantitative trading systems, DSPy research pipelines, distributed consensus protocols, and multi-agent swarm coordination; add with `/plugin marketplace add jmanhype/claude-code-plugins`.
