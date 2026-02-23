@@ -24,6 +24,7 @@ Many resources can be installed directly via Claude Code commands:
 - [GitHub MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/github) - Official first-party server to read repos, manage issues/PRs, and automate workflows.
 - [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) - Community server with Sheets/Drive/Gmail/Calendar/Docs/Slides/Tasks coverage with remote OAuth and 1-click Claude install.
 - [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp) - Official hosted server with OAuth; designed for Claude/Cursor/etc.
+- [Launch Fast MCP](https://github.com/BlockchainHB/launchfastmcp-skills) - Amazon FBA research skills for Claude Code: product research with opportunity scoring, PPC keyword research with Sponsored Products bulk upload CSV, Alibaba supplier outreach, and IP/trademark checks. Requires [Launch Fast](https://launchfastlegacyx.com) subscription.
 - [Supabase MCP Server](https://supabase.com/blog/supabase-mcp) - Official server to connect Claude to Supabase projects; HTTP/SSE transports and OAuth supported.
 
 ## Editor Plugins
