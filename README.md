@@ -34,6 +34,9 @@ Many resources can be installed directly via Claude Code commands:
 - [claudecode.nvim](https://github.com/coder/claudecode.nvim) - Neovim IDE integration for Claude Code (pure Lua).
 - [Claude Code Chat](https://marketplace.visualstudio.com/items?itemName=nishant.claude-code-chat) - Community GUI chat/front-end for Claude Code inside VS Code.
 
+## Companion Apps
+- [Poirot](https://github.com/LeonardoCardoso/Poirot) - A native macOS companion app for browsing Claude Code sessions, exploring diffs, and re-running commands. Built with SwiftUI, works offline, no tracking.
+
 ## Documentation & Learning Resources
 - [Customize Claude Code with plugins](https://www.anthropic.com/news/customize-claude-code-with-plugins) - Official announcement intro to plugins (commands, agents, MCPs, hooks).
 - [Plugin marketplaces](https://docs.claude.com/en/docs/claude-code/plugins#plugin-marketplaces) - Guide on how to create/distribute marketplaces and team-install via `.claude/settings.json`.
