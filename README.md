@@ -20,6 +20,7 @@ Many resources can be installed directly via Claude Code commands:
 - [Docker Claude Plugins](https://github.com/docker/claude-plugins) - Integrates Docker Desktop's MCP Toolkit as a Claude Code plugin to expose containerized MCP servers through Claude.
 
 ## MCP Servers
+- [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - MCP server that indexes codebases into a persistent knowledge graph. 35 languages, sub-ms queries, 120x fewer tokens than file-by-file exploration. Single Go binary with tree-sitter AST parsing, call graph tracing, cross-service HTTP linking, dead code detection, Cypher queries, auto-sync, and CLI mode. 12 MCP tools.
 - [Atlassian Remote MCP Server](https://developer.atlassian.com/platform/model-context-protocol/) - OAuth-secured remote MCP for Jira/Confluence (Claude setup + cloud endpoints).
 - [GitHub MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/github) - Official first-party server to read repos, manage issues/PRs, and automate workflows.
 - [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) - Community server with Sheets/Drive/Gmail/Calendar/Docs/Slides/Tasks coverage with remote OAuth and 1-click Claude install.
