@@ -18,6 +18,7 @@ Many resources can be installed directly via Claude Code commands:
 - [Claude Code Plugins (jeremylongshore)](https://github.com/jeremylongshore/claude-code-plugins) - Marketplace-style repo bundling instruction-template plugins and MCP plugin packs, with install docs.
 - [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) - 19 production-grade plugins for trading, swarm intelligence, and GitHub automation built from 68+ specialized agents. Includes quantitative trading systems, DSPy research pipelines, distributed consensus protocols, and multi-agent swarm coordination; add with `/plugin marketplace add jmanhype/claude-code-plugins`.
 - [Docker Claude Plugins](https://github.com/docker/claude-plugins) - Integrates Docker Desktop's MCP Toolkit as a Claude Code plugin to expose containerized MCP servers through Claude.
+- [PitchDocs](https://github.com/littlebearapps/pitchdocs) - Documentation generation plugin with 13 slash commands for README, CHANGELOG, AI context files, and more; add with `/plugin marketplace add littlebearapps/lba-plugins`.
 
 ## MCP Servers
 - [Atlassian Remote MCP Server](https://developer.atlassian.com/platform/model-context-protocol/) - OAuth-secured remote MCP for Jira/Confluence (Claude setup + cloud endpoints).
