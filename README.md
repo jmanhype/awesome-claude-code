@@ -25,6 +25,7 @@ Many resources can be installed directly via Claude Code commands:
 - [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) - Community server with Sheets/Drive/Gmail/Calendar/Docs/Slides/Tasks coverage with remote OAuth and 1-click Claude install.
 - [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp) - Official hosted server with OAuth; designed for Claude/Cursor/etc.
 - [Supabase MCP Server](https://supabase.com/blog/supabase-mcp) - Official server to connect Claude to Supabase projects; HTTP/SSE transports and OAuth supported.
+- [claude-synapse](https://github.com/PooterAi/claude-synapse) - Cognitive memory MCP server for Claude Code. 18 tools (brain_store, brain_recall, brain_health, brain_prune, etc.), quality gate with deduplication and conflict detection, 9-stage hippocampal retrieval pipeline, learned rules extraction, and two-strike error circuit breaker. Zero LLM cost, fully local JSON storage, 5 lifecycle hooks.
 
 ## Editor Plugins
 - [Claude Code for JetBrains](https://plugins.jetbrains.com/plugin/26099-claude-code) - Official plugin for IntelliJ family (interactive diffs, selection context) (Beta).
