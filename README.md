@@ -16,6 +16,7 @@ Many resources can be installed directly via Claude Code commands:
 ## Plugins & Extensions
 - [Claude Code Commands Marketplace](https://github.com/ananddtyagi/claude-code-marketplace) - Community marketplace for Claude Code commands and plugins; add with `/plugin marketplace add ananddtyagi/claude-code-marketplace`.
 - [Claude Code Plugins (jeremylongshore)](https://github.com/jeremylongshore/claude-code-plugins) - Marketplace-style repo bundling instruction-template plugins and MCP plugin packs, with install docs.
+- [fractal](https://github.com/rmolines/fractal) - Recursive project management for Claude Code. One primitive that decomposes any goal into verifiable predicates, works on the riskiest unknown first. Includes `/fractal:run` (idempotent state machine), `/fractal:init`, `/fractal:patch`, dry run mode, and incremental decomposition with re-evaluation.
 - [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) - 19 production-grade plugins for trading, swarm intelligence, and GitHub automation built from 68+ specialized agents. Includes quantitative trading systems, DSPy research pipelines, distributed consensus protocols, and multi-agent swarm coordination; add with `/plugin marketplace add jmanhype/claude-code-plugins`.
 - [Docker Claude Plugins](https://github.com/docker/claude-plugins) - Integrates Docker Desktop's MCP Toolkit as a Claude Code plugin to expose containerized MCP servers through Claude.
 
