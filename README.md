@@ -19,7 +19,8 @@ Many resources can be installed directly via Claude Code commands:
 - [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) - 19 production-grade plugins for trading, swarm intelligence, and GitHub automation built from 68+ specialized agents. Includes quantitative trading systems, DSPy research pipelines, distributed consensus protocols, and multi-agent swarm coordination; add with `/plugin marketplace add jmanhype/claude-code-plugins`.
 - [Docker Claude Plugins](https://github.com/docker/claude-plugins) - Integrates Docker Desktop's MCP Toolkit as a Claude Code plugin to expose containerized MCP servers through Claude.
 
-- [claude-sounds](https://github.com/culminationAI/claude-sounds) - Your Claude Code shouldn't be silent. Sound effects for all hooks — spells, chimes, clicks. Drop mp3s to customize.
+- [claude-sounds](https://github.com/culminationAI/claude-sounds) - Audio feedback for Claude Code hooks — 10 events, 21 sounds, random rotation, customizable. macOS (`afplay`).
+
 ## MCP Servers
 - [Atlassian Remote MCP Server](https://developer.atlassian.com/platform/model-context-protocol/) - OAuth-secured remote MCP for Jira/Confluence (Claude setup + cloud endpoints).
 - [GitHub MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/github) - Official first-party server to read repos, manage issues/PRs, and automate workflows.
