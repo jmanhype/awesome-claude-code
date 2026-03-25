@@ -25,6 +25,7 @@ Many resources can be installed directly via Claude Code commands:
 - [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) - Community server with Sheets/Drive/Gmail/Calendar/Docs/Slides/Tasks coverage with remote OAuth and 1-click Claude install.
 - [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp) - Official hosted server with OAuth; designed for Claude/Cursor/etc.
 - [Supabase MCP Server](https://supabase.com/blog/supabase-mcp) - Official server to connect Claude to Supabase projects; HTTP/SSE transports and OAuth supported.
+- [claw-army/claude-node](https://github.com/claw-army/claude-node) - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 
 ## Editor Plugins
 - [Claude Code for JetBrains](https://plugins.jetbrains.com/plugin/26099-claude-code) - Official plugin for IntelliJ family (interactive diffs, selection context) (Beta).
