@@ -31,6 +31,8 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) | jmanhype | 19 plugins for trading, swarm intelligence, GitHub automation |
 | [Docker Claude Plugins](https://github.com/docker/claude-plugins) | Docker | Exposes containerized MCP servers via Docker Desktop |
 
+- [claude-sounds](https://github.com/culminationAI/claude-sounds) - Audio feedback for Claude Code hooks — 10 events, 21 sounds, random rotation, customizable. macOS (`afplay`).
+
 ## MCP Servers
 
 | Name | Auth | Coverage |
