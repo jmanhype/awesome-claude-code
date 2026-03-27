@@ -31,6 +31,10 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) | jmanhype | 19 plugins for trading, swarm intelligence, GitHub automation |
 | [Docker Claude Plugins](https://github.com/docker/claude-plugins) | Docker | Exposes containerized MCP servers via Docker Desktop |
 
+## Agent Skills
+- [Humanizer AI](https://github.com/humanizerai/agent-skills) - Detect AI-generated text and humanize it to bypass AI detectors like GPTZero and Turnitin. Commands: `/detect-ai`, `/humanize`. Install: `npx skills add humanizerai/agent-skills`. [Website](https://humanizerai.com)
+
+
 ## MCP Servers
 
 | Name | Auth | Coverage |
