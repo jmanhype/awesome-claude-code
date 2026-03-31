@@ -40,6 +40,8 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) | OAuth | Sheets, Drive, Gmail, Calendar, Docs, Slides, Tasks |
 | [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp) | OAuth | Notion workspaces |
 | [Supabase MCP](https://supabase.com/blog/supabase-mcp) | OAuth / HTTP | Supabase projects |
+| [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) | None (free) | DEX data: 34 chains, 30M+ pools, tokens, OHLCV, trades |
+| [CoinPaprika MCP](https://github.com/coinpaprika/coinpaprika-mcp) | None (free) | Crypto market data: 12K+ coins, 350+ exchanges, tickers |
 
 ## Editor Integrations
 
