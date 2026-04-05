@@ -32,6 +32,12 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Docker Claude Plugins](https://github.com/docker/claude-plugins) | Docker | Exposes containerized MCP servers via Docker Desktop |
 
 ## MCP Servers
+- [Atlassian Remote MCP Server](https://developer.atlassian.com/platform/model-context-protocol/) - OAuth-secured remote MCP for Jira/Confluence (Claude setup + cloud endpoints).
+- [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - Hosted MCP server for searching scientific papers with full-text experimental data; SSE + Streamable HTTP endpoints.
+- [GitHub MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/github) - Official first-party server to read repos, manage issues/PRs, and automate workflows.
+- [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) - Community server with Sheets/Drive/Gmail/Calendar/Docs/Slides/Tasks coverage with remote OAuth and 1-click Claude install.
+- [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp) - Official hosted server with OAuth; designed for Claude/Cursor/etc.
+- [Supabase MCP Server](https://supabase.com/blog/supabase-mcp) - Official server to connect Claude to Supabase projects; HTTP/SSE transports and OAuth supported.
 
 | Name | Auth | Coverage |
 |------|------|----------|
