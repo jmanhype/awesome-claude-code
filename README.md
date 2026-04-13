@@ -7,7 +7,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | Metric | Value |
 |--------|------|
 | Plugins listed | 4 |
-| MCP servers | 5 |
+| MCP servers | 7 |
 | Editor integrations | 6 |
 | Learning resources | 5 |
 | Last updated | 2025-Q2 |
@@ -36,12 +36,12 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | Name | Auth | Coverage |
 |------|------|----------|
 | [Atlassian Remote MCP](https://developer.atlassian.com/platform/model-context-protocol/) | OAuth | Jira, Confluence |
+| [CoinPaprika MCP](https://github.com/coinpaprika/coinpaprika-mcp) | None (free) | Crypto market data: 12K+ coins, 350+ exchanges, tickers |
+| [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) | None (free) | DEX data: 34 chains, 30M+ pools, tokens, OHLCV, trades |
 | [GitHub MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/github) | Token | Repos, issues, PRs, workflows |
 | [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) | OAuth | Sheets, Drive, Gmail, Calendar, Docs, Slides, Tasks |
 | [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp) | OAuth | Notion workspaces |
 | [Supabase MCP](https://supabase.com/blog/supabase-mcp) | OAuth / HTTP | Supabase projects |
-| [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) | None (free) | DEX data: 34 chains, 30M+ pools, tokens, OHLCV, trades |
-| [CoinPaprika MCP](https://github.com/coinpaprika/coinpaprika-mcp) | None (free) | Crypto market data: 12K+ coins, 350+ exchanges, tickers |
 
 ## Editor Integrations
 
