@@ -6,11 +6,11 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 
 | Metric | Value |
 |--------|------|
-| Plugins listed | 4 |
+| Plugins listed | 5 |
 | MCP servers | 5 |
 | Editor integrations | 6 |
 | Learning resources | 5 |
-| Last updated | 2025-Q2 |
+| Last updated | 2026-Q2 |
 
 ## Installation
 
@@ -26,6 +26,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 
 | Name | Maintainer | Description |
 |------|------------|-------------|
+| [Bedrock](https://github.com/iurykrieger/claude-bedrock) | iurykrieger | Second Brain automation for Obsidian vaults — entity detection, Zettelkasten structure, and ingestion from Confluence, Google Docs, GitHub, and docling-supported files via 8 Claude Code skills |
 | [Claude Code Commands Marketplace](https://github.com/ananddtyagi/claude-code-marketplace) | ananddtyagi | Community marketplace for commands and plugins |
 | [Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins) | jeremylongshore | Instruction-template plugins and MCP plugin packs |
 | [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) | jmanhype | 19 plugins for trading, swarm intelligence, GitHub automation |
