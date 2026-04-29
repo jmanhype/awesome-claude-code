@@ -30,6 +30,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins) | jeremylongshore | Instruction-template plugins and MCP plugin packs |
 | [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) | jmanhype | 19 plugins for trading, swarm intelligence, GitHub automation |
 | [Docker Claude Plugins](https://github.com/docker/claude-plugins) | Docker | Exposes containerized MCP servers via Docker Desktop |
+| [Lore](https://github.com/yacb2/lore) | yacb2 | Living knowledge graph for software projects — typed graph (modules, capabilities, flows, events, rules, decisions) backed by SQLite, with auto-invoked skills and slash commands. |
 
 ## MCP Servers
 
