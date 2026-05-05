@@ -40,6 +40,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) | OAuth | Sheets, Drive, Gmail, Calendar, Docs, Slides, Tasks |
 | [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp) | OAuth | Notion workspaces |
 | [Supabase MCP](https://supabase.com/blog/supabase-mcp) | OAuth / HTTP | Supabase projects |
+| [koreanpulse](https://github.com/whdrnr2583-cmd/koreanpulse) | License key + DART API key | Korean equity intelligence — DART filings, foreign-holder 5%-rule flows (BlackRock / Vanguard / Norges / GIC + 16 more), Korean activist filings (KCGI / Align / ValueAct / Elliott), KRX industry news. Free public daily snapshot at koreanpulse.dev/today. |
 
 ## Editor Integrations
 
