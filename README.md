@@ -6,11 +6,11 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 
 | Metric | Value |
 |--------|------|
-| Plugins listed | 4 |
+| Plugins listed | 5 |
 | MCP servers | 5 |
 | Editor integrations | 6 |
 | Learning resources | 5 |
-| Last updated | 2025-Q2 |
+| Last updated | 2026-Q2 |
 
 ## Installation
 
@@ -30,6 +30,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins) | jeremylongshore | Instruction-template plugins and MCP plugin packs |
 | [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) | jmanhype | 19 plugins for trading, swarm intelligence, GitHub automation |
 | [Docker Claude Plugins](https://github.com/docker/claude-plugins) | Docker | Exposes containerized MCP servers via Docker Desktop |
+| [AgentsAtlas](https://github.com/AvinashP/AgentsAtlas) | AvinashP | Workflow plugin — 8 slash commands and 16 dev skills; runs each plan in a fresh-context subagent. Also ships as Codex skills. |
 
 ## MCP Servers
 
