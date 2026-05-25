@@ -30,7 +30,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins) | jeremylongshore | Instruction-template plugins and MCP plugin packs |
 | [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) | jmanhype | 19 plugins for trading, swarm intelligence, GitHub automation |
 | [Docker Claude Plugins](https://github.com/docker/claude-plugins) | Docker | Exposes containerized MCP servers via Docker Desktop |
-| [Perseus](https://github.com/tcconnally/perseus) | tcconnally | Live context engine — resolves @query/@services/@waypoint directives into CLAUDE.md before session start. Hook installer for `.claude/settings.json`. |
+| [Perseus](https://github.com/tcconnally/perseus) | tcconnally | Live context engine — resolves `@query`/`@services`/`@waypoint` directives into `CLAUDE.md` before session start. Hook installer for `.claude/settings.json`. |
 
 ## MCP Servers
 
