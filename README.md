@@ -6,11 +6,11 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 
 | Metric | Value |
 |--------|------|
-| Plugins listed | 4 |
+| Plugins listed | 5 |
 | MCP servers | 5 |
 | Editor integrations | 6 |
 | Learning resources | 5 |
-| Last updated | 2025-Q2 |
+| Last updated | 2026-Q2 |
 
 ## Installation
 
