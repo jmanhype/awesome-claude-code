@@ -30,6 +30,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins) | jeremylongshore | Instruction-template plugins and MCP plugin packs |
 | [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) | jmanhype | 19 plugins for trading, swarm intelligence, GitHub automation |
 | [Docker Claude Plugins](https://github.com/docker/claude-plugins) | Docker | Exposes containerized MCP servers via Docker Desktop |
+| [Kreuzberg Plugins](https://github.com/kreuzberg-dev/plugins) | Kreuzberg, Inc. | Document intelligence: local extraction (91+ formats with OCR), web crawling (HTML→Markdown), and managed cloud extraction |
 
 ## MCP Servers
 
@@ -40,6 +41,8 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) | OAuth | Sheets, Drive, Gmail, Calendar, Docs, Slides, Tasks |
 | [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp) | OAuth | Notion workspaces |
 | [Supabase MCP](https://supabase.com/blog/supabase-mcp) | OAuth / HTTP | Supabase projects |
+| [Kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) | None (local) | Document extraction — text, tables, metadata, images from 91+ formats with OCR |
+| [Kreuzcrawl](https://github.com/kreuzberg-dev/kreuzcrawl) | None (local) | Web crawling and scraping — HTML→Markdown with headless-Chrome fallback |
 
 ## Editor Integrations
 
