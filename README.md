@@ -36,6 +36,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | Name | Auth | Coverage |
 |------|------|----------|
 | [Atlassian Remote MCP](https://developer.atlassian.com/platform/model-context-protocol/) | OAuth | Jira, Confluence |
+| [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | Local | Codebase knowledge graph, 159 languages, call graphs, dead code |
 | [GitHub MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/github) | Token | Repos, issues, PRs, workflows |
 | [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) | OAuth | Sheets, Drive, Gmail, Calendar, Docs, Slides, Tasks |
 | [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp) | OAuth | Notion workspaces |
