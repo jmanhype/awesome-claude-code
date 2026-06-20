@@ -10,7 +10,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | MCP servers | 6 |
 | Editor integrations | 6 |
 | Learning resources | 5 |
-| Last updated | 2025-Q2 |
+| Last updated | 2026-Q2 |
 
 ## Installation
 
