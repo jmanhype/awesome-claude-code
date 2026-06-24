@@ -6,7 +6,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 
 | Metric | Value |
 |--------|------|
-| Plugins listed | 4 |
+| Plugins listed | 5 |
 | MCP servers | 5 |
 | Editor integrations | 6 |
 | Learning resources | 5 |
@@ -26,6 +26,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 
 | Name | Maintainer | Description |
 |------|------------|-------------|
+| [Automatic Episodic Memory](https://github.com/automattf/automatic-episodic-memory) | automattf | Episodic memory with automatic recall for Claude Code: captures work across context compactions and surfaces relevant past episodes automatically on prompts, tool calls, and turn end, with no manual logging or lookup. Install: `/plugin marketplace add automattf/claude-plugins` then `/plugin install automatic-episodic-memory@automattf-plugins`. |
 | [Claude Code Commands Marketplace](https://github.com/ananddtyagi/claude-code-marketplace) | ananddtyagi | Community marketplace for commands and plugins |
 | [Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins) | jeremylongshore | Instruction-template plugins and MCP plugin packs |
 | [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) | jmanhype | 19 plugins for trading, swarm intelligence, GitHub automation |
