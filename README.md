@@ -35,6 +35,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 
 | Name | Auth | Coverage |
 |------|------|----------|
+| [AgentsCoin MCP](https://github.com/axiosdevs/agentscoin-mcp) | None | Wallet, faucet, send, token create/trade on a live EVM chain |
 | [Atlassian Remote MCP](https://developer.atlassian.com/platform/model-context-protocol/) | OAuth | Jira, Confluence |
 | [GitHub MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/github) | Token | Repos, issues, PRs, workflows |
 | [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) | OAuth | Sheets, Drive, Gmail, Calendar, Docs, Slides, Tasks |
