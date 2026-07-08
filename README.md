@@ -1,6 +1,6 @@
 # Awesome Claude Code
 
-A list of Claude Code plugins, MCP servers, editor integrations, and learning resources.
+A list of Claude Code plugins, MCP servers, memory and context tools, editor integrations, and learning resources.
 
 ## Status
 
@@ -10,7 +10,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | MCP servers | 5 |
 | Editor integrations | 6 |
 | Learning resources | 5 |
-| Memory/context tools | 1 |
+| Memory & Context Tools | 1 |
 | Last updated | 2026-Q3 |
 
 ## Installation
