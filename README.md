@@ -30,6 +30,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins) | jeremylongshore | Instruction-template plugins and MCP plugin packs |
 | [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) | jmanhype | 19 plugins for trading, swarm intelligence, GitHub automation |
 | [Docker Claude Plugins](https://github.com/docker/claude-plugins) | Docker | Exposes containerized MCP servers via Docker Desktop |
+| [praetor](https://github.com/luoxianzi/praetor) | luoxianzi | Claude plans, the Codex CLI executes, and a binding fresh-context judge decides what merges — acceptance criteria frozen in git before the executor runs; Legion Mode runs 2–5 parallel workers behind an integration judge |
 
 ## MCP Servers
 
