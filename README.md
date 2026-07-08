@@ -10,7 +10,8 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | MCP servers | 5 |
 | Editor integrations | 6 |
 | Learning resources | 5 |
-| Last updated | 2025-Q2 |
+| Memory/context tools | 1 |
+| Last updated | 2026-Q3 |
 
 ## Installation
 
@@ -40,6 +41,12 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) | OAuth | Sheets, Drive, Gmail, Calendar, Docs, Slides, Tasks |
 | [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp) | OAuth | Notion workspaces |
 | [Supabase MCP](https://supabase.com/blog/supabase-mcp) | OAuth / HTTP | Supabase projects |
+
+## Memory & Context Tools
+
+| Name | Runtime | Description |
+|------|---------|-------------|
+| [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) | Rust CLI / agent skill | Framework-agnostic, local-first memory lifecycle layer for AI agents with portable skill guidance, recall, forgetting, audit, consolidation, and Claude Code bridge patterns. |
 
 ## Editor Integrations
 
