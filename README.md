@@ -6,7 +6,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 
 | Metric | Value |
 |--------|------|
-| Plugins listed | 4 |
+| Plugins listed | 5 |
 | MCP servers | 5 |
 | Editor integrations | 6 |
 | Learning resources | 5 |
@@ -30,6 +30,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins) | jeremylongshore | Instruction-template plugins and MCP plugin packs |
 | [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) | jmanhype | 19 plugins for trading, swarm intelligence, GitHub automation |
 | [Docker Claude Plugins](https://github.com/docker/claude-plugins) | Docker | Exposes containerized MCP servers via Docker Desktop |
+| [Parallax](https://github.com/propersloth/parallax-threejs) | propersloth | Three.js/GLSL debugging — correlates scene graph, console, GPU state, and pixels into one diagnosis, plus git-SHA-indexed visual regression testing |
 
 ## MCP Servers
 
