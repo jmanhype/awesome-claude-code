@@ -7,7 +7,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | Metric | Value |
 |--------|------|
 | Plugins listed | 4 |
-| MCP servers | 5 |
+| MCP servers | 6 |
 | Editor integrations | 6 |
 | Learning resources | 5 |
 | Last updated | 2025-Q2 |
@@ -39,6 +39,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [GitHub MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/github) | Token | Repos, issues, PRs, workflows |
 | [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) | OAuth | Sheets, Drive, Gmail, Calendar, Docs, Slides, Tasks |
 | [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp) | OAuth | Notion workspaces |
+| [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) | None | Web search, page retrieval |
 | [Supabase MCP](https://supabase.com/blog/supabase-mcp) | OAuth / HTTP | Supabase projects |
 
 ## Editor Integrations
