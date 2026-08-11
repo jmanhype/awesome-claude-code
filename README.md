@@ -61,6 +61,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Connect Claude Code to tools via MCP](https://docs.claude.com/en/docs/claude-code/mcp) | Official MCP integration guide |
 | [VS Code integration](https://docs.claude.com/en/docs/claude-code/vs-code) | Official VS Code extension docs |
 | [JetBrains integration](https://docs.claude.com/en/docs/claude-code/jetbrains) | Official JetBrains plugin docs |
+| [Claude Market](https://claudemarket.ai) | Community directory | Skills, plugins, and MCP servers for OpenClaw, Hermes Agent, Claude Code, and Codex, plus a marketplace for personas and skills |
 
 ## Limitations
 
