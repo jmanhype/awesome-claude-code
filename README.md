@@ -33,13 +33,14 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 
 ## MCP Servers
 
-| Name | Auth | Coverage |
-|------|------|----------|
-| [Atlassian Remote MCP](https://developer.atlassian.com/platform/model-context-protocol/) | OAuth | Jira, Confluence |
-| [GitHub MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/github) | Token | Repos, issues, PRs, workflows |
-| [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) | OAuth | Sheets, Drive, Gmail, Calendar, Docs, Slides, Tasks |
-| [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp) | OAuth | Notion workspaces |
-| [Supabase MCP](https://supabase.com/blog/supabase-mcp) | OAuth / HTTP | Supabase projects |
+| Name                                                                                     | Auth               | Coverage                                                                        |
+| ---------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------- |
+| [Agent QA](https://github.com/vostride/agent-qa)                                         | Provider-dependent | Natural-language web/mobile regression testing through a local stdio MCP server |
+| [Atlassian Remote MCP](https://developer.atlassian.com/platform/model-context-protocol/) | OAuth              | Jira, Confluence                                                                |
+| [GitHub MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/github)       | Token              | Repos, issues, PRs, workflows                                                   |
+| [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers)                | OAuth              | Sheets, Drive, Gmail, Calendar, Docs, Slides, Tasks                             |
+| [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp)     | OAuth              | Notion workspaces                                                               |
+| [Supabase MCP](https://supabase.com/blog/supabase-mcp)                                   | OAuth / HTTP       | Supabase projects                                                               |
 
 ## Editor Integrations
 
