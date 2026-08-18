@@ -6,7 +6,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 
 | Metric | Value |
 |--------|------|
-| Plugins listed | 4 |
+| Plugins listed | 5 |
 | MCP servers | 5 |
 | Editor integrations | 6 |
 | Learning resources | 5 |
@@ -27,6 +27,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | Name | Maintainer | Description |
 |------|------------|-------------|
 | [Claude Code Commands Marketplace](https://github.com/ananddtyagi/claude-code-marketplace) | ananddtyagi | Community marketplace for commands and plugins |
+| [humanize-writing-skill](https://github.com/AshwinSathian/humanize-writing-skill) | AshwinSathian | Skill that shapes written output to avoid AI-writing tells, using cited research instead of a banned-word list. |
 | [Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins) | jeremylongshore | Instruction-template plugins and MCP plugin packs |
 | [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) | jmanhype | 19 plugins for trading, swarm intelligence, GitHub automation |
 | [Docker Claude Plugins](https://github.com/docker/claude-plugins) | Docker | Exposes containerized MCP servers via Docker Desktop |
