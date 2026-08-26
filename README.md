@@ -30,6 +30,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins) | jeremylongshore | Instruction-template plugins and MCP plugin packs |
 | [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) | jmanhype | 19 plugins for trading, swarm intelligence, GitHub automation |
 | [Docker Claude Plugins](https://github.com/docker/claude-plugins) | Docker | Exposes containerized MCP servers via Docker Desktop |
+| [RunVouch](https://github.com/runvouch/claude-plugin) | runvouch | Watchdog hooks that report unattended runs and alert on missed, failed, no-evidence, over-budget, drifting or stalled runs. |
 
 ## MCP Servers
 
@@ -40,6 +41,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) | OAuth | Sheets, Drive, Gmail, Calendar, Docs, Slides, Tasks |
 | [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp) | OAuth | Notion workspaces |
 | [Supabase MCP](https://supabase.com/blog/supabase-mcp) | OAuth / HTTP | Supabase projects |
+| [RunVouch MCP](https://runvouch.com/docs/mcp) | API key | Agent status, alerts, ack, run reports with evidence and cost. |
 
 ## Editor Integrations
 
