@@ -47,7 +47,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | Editor | Name | Source | Notes |
 |--------|------|--------|-------|
 | VS Code | [Claude Code](https://marketplace.visualstudio.com/items?itemName=Anthropic.claude-code) | Anthropic (official) | Inline diffs, real-time edits |
-| VS Code | [Claude Code Chat](https://github.com/nishant.claude-code-chat) | Community | GUI chat front-end |
+| VS Code | [Claude Code Chat](https://marketplace.visualstudio.com/items?itemName=nishant.claude-code-chat) | Community | GUI chat front-end |
 | JetBrains | [Claude Code](https://plugins.jetbrains.com/plugin/26099-claude-code) | Anthropic (official, beta) | Interactive diffs, selection context |
 | Neovim | [claude-chat.nvim](https://github.com/ribru17/claude-chat.nvim) | Community | CLI wrapper, shares file/selection context |
 | Neovim | [claude-code.nvim](https://github.com/greggh/claude-code.nvim) | Community | Full integration inside Neovim |
