@@ -30,6 +30,9 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins) | jeremylongshore | Instruction-template plugins and MCP plugin packs |
 | [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) | jmanhype | 19 plugins for trading, swarm intelligence, GitHub automation |
 | [Docker Claude Plugins](https://github.com/docker/claude-plugins) | Docker | Exposes containerized MCP servers via Docker Desktop |
+| [prove-it](https://github.com/JohnJackHouzi/prove-it) | JohnJackHouzi | Captures real evidence before an agent claims success, returning a PROVEN / NOT PROVEN verdict. |
+| [safe-worktree](https://github.com/JohnJackHouzi/safe-worktree) | JohnJackHouzi | Isolated git worktrees, a pre-commit drift guard, and cleanup that detects a squash merge. |
+| [typo-fr](https://github.com/JohnJackHouzi/typo-fr) | JohnJackHouzi | French typography enforced when writing and linted when reviewing, without touching code. |
 
 ## MCP Servers
 
