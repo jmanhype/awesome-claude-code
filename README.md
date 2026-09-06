@@ -40,6 +40,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) | OAuth | Sheets, Drive, Gmail, Calendar, Docs, Slides, Tasks |
 | [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp) | OAuth | Notion workspaces |
 | [Supabase MCP](https://supabase.com/blog/supabase-mcp) | OAuth / HTTP | Supabase projects |
+| [ContextStream](https://github.com/contextstream/mcp-server) | OAuth / HTTP | Shared project context across Claude Code and other MCP clients |
 
 ## Editor Integrations
 
