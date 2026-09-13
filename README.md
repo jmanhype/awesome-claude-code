@@ -61,6 +61,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Connect Claude Code to tools via MCP](https://docs.claude.com/en/docs/claude-code/mcp) | Official MCP integration guide |
 | [VS Code integration](https://docs.claude.com/en/docs/claude-code/vs-code) | Official VS Code extension docs |
 | [JetBrains integration](https://docs.claude.com/en/docs/claude-code/jetbrains) | Official JetBrains plugin docs |
+| [mblode/agent-skills](https://github.com/mblode/agent-skills) | Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills` |
 
 ## Limitations
 
