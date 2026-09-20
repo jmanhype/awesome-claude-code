@@ -7,7 +7,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | Metric | Value |
 |--------|------|
 | Plugins listed | 4 |
-| MCP servers | 5 |
+| MCP servers | 6 |
 | Editor integrations | 6 |
 | Learning resources | 5 |
 | Last updated | 2025-Q2 |
@@ -38,6 +38,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Atlassian Remote MCP](https://developer.atlassian.com/platform/model-context-protocol/) | OAuth | Jira, Confluence |
 | [GitHub MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/github) | Token | Repos, issues, PRs, workflows |
 | [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) | OAuth | Sheets, Drive, Gmail, Calendar, Docs, Slides, Tasks |
+| [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | Scoped, expiring local grant | Developer-alpha encrypted knowledge search and retrieval. |
 | [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp) | OAuth | Notion workspaces |
 | [Supabase MCP](https://supabase.com/blog/supabase-mcp) | OAuth / HTTP | Supabase projects |
 
