@@ -30,6 +30,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins) | jeremylongshore | Instruction-template plugins and MCP plugin packs |
 | [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) | jmanhype | 19 plugins for trading, swarm intelligence, GitHub automation |
 | [Docker Claude Plugins](https://github.com/docker/claude-plugins) | Docker | Exposes containerized MCP servers via Docker Desktop |
+| [Plumbward Lite](https://github.com/uzayrhbusiness-afk/plumbward-lite) | uzayrhbusiness-afk | Free. dry-run shows the full list before Claude deletes, moves or overwrites anything and waits for your yes; token-diet cuts the habits that burn usage limits. No setup. Measured: 0 of 30 cleanup runs changed files before asking, bare Claude 30 of 30, traces public. |
 
 ## MCP Servers
 
