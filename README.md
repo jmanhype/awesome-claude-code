@@ -7,7 +7,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | Metric | Value |
 |--------|------|
 | Plugins listed | 4 |
-| MCP servers | 5 |
+| MCP servers | 6 |
 | Editor integrations | 6 |
 | Learning resources | 5 |
 | Last updated | 2025-Q2 |
@@ -40,6 +40,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Google Workspace MCP](https://github.com/aekanun2020/Google-MCP-Servers) | OAuth | Sheets, Drive, Gmail, Calendar, Docs, Slides, Tasks |
 | [Notion MCP](https://www.notion.so/help/add-and-manage-connections-with-the-api#mcp) | OAuth | Notion workspaces |
 | [Supabase MCP](https://supabase.com/blog/supabase-mcp) | OAuth / HTTP | Supabase projects |
+| [BuyWhere MCP](https://github.com/BuyWhere/buywhere-mcp) | API key / none for public catalog | SEA product search, price compare, 300M+ products / 150K+ merchants. Remote: https://api.buywhere.ai/mcp · `npx -y @buywhere/mcp-server` |
 
 ## Editor Integrations
 
