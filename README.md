@@ -6,7 +6,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 
 | Metric | Value |
 |--------|------|
-| Plugins listed | 4 |
+| Plugins listed | 5 |
 | MCP servers | 5 |
 | Editor integrations | 6 |
 | Learning resources | 5 |
@@ -29,6 +29,7 @@ A list of Claude Code plugins, MCP servers, editor integrations, and learning re
 | [Claude Code Commands Marketplace](https://github.com/ananddtyagi/claude-code-marketplace) | ananddtyagi | Community marketplace for commands and plugins |
 | [Claude Code Plugins](https://github.com/jeremylongshore/claude-code-plugins) | jeremylongshore | Instruction-template plugins and MCP plugin packs |
 | [Multi-Agent Intelligence Marketplace](https://github.com/jmanhype/claude-code-plugins) | jmanhype | 19 plugins for trading, swarm intelligence, GitHub automation |
+| [D2 Diagrams](https://github.com/heathdutton/claude-d2-diagrams) | heathdutton | Infrastructure and architecture diagrams from Terraform, K8s, Docker, CloudFormation |
 | [Docker Claude Plugins](https://github.com/docker/claude-plugins) | Docker | Exposes containerized MCP servers via Docker Desktop |
 
 ## MCP Servers
